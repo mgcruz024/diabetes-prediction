@@ -41,12 +41,12 @@ To ensure model effectiveness, the correlation between independent variables aft
 
 With a balanced dataset, the project proceeds to build and evaluate predictive models, including Logistic Regression, kNN, CART, and Random Forest.
 
-**Note:** The code and detailed analysis can be found in the Jupyter Notebook File provided in this repository.
+**Note:** The code and detailed analysis can be found in the R File provided in this repository.
 
 ## How to Use
 
 1. Clone the repository.
-2. Open with Jupyter Notebook to view the code and analysis.
+2. Open with RStudio to view the code and analysis.
 3. Explore the dataset and experiment with the predictive models.
 
 Feel free to contribute or provide feedback!
