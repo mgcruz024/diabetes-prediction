@@ -1,5 +1,5 @@
 # diabetes-prediction
-ML Prediction for Diabetes data (Kaggle) using Class Imbalance Techniques 
+ML Prediction for Diabetes data (Kaggle) of 250,000+ individuals using Class Imbalance Techniques 
 
 
 # Diabetes Prediction using Logistic Regression, kNN, Classification Trees and Random Forest
