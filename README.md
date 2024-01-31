@@ -45,7 +45,7 @@ With a balanced dataset, the project proceeds to build and evaluate predictive m
 
 ## How to Use
 
-1. Clone the repository.
+1. Clone this repository.
 2. Open with RStudio to view the code and analysis.
 3. Explore the dataset and experiment with the predictive models.
 
