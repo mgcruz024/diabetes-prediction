@@ -20,7 +20,7 @@ hist(dat$Education)
 #Dimension of the dataset
 dim(dat)
 
-#Summary of dataset
+#Summary of the dataset
 summary(dat)
 
 #Columns
